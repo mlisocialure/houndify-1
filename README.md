@@ -1,3 +1,5 @@
+For learning purposes. Trying to set up Houndify on a Raspberry Pi. 
+
 # Python Houndify SDK
 
 
